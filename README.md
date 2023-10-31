@@ -1,1 +1,1 @@
-# project1rps
+# MiniGamesWebsiteRPS
